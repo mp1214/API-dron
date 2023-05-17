@@ -5,7 +5,8 @@
             "model":"Lightweight",
             "weight_limit":500,
             "battery_capacity":50,
-            "state":"IDLE"
+            "state":"IDLE",
+            "image":"https://firebasestorage.googleapis.com/v0/b/white-con-amor.appspot.com/o/drones%2Fdron1.jpg?alt=media&token=3b5ed695-1299-4028-958d-8c8da312f0c5"
 
         },
         {
@@ -13,7 +14,8 @@
             "model":"Middleweight",
             "weight_limit":500,
             "battery_capacity":70,
-            "state":"LOADED"
+            "state":"LOADED",
+            "image":"https://firebasestorage.googleapis.com/v0/b/white-con-amor.appspot.com/o/drones%2Fdron2.jpg?alt=media&token=e4f37081-fc44-40ef-a589-829b48c0be1e"
 
         },
         {
@@ -21,7 +23,8 @@
             "model":"Cruiserweight",
             "weight_limit":500,
             "battery_capacity":90,
-            "state":"DELIVERED"
+            "state":"DELIVERED",
+            "image":"https://firebasestorage.googleapis.com/v0/b/white-con-amor.appspot.com/o/drones%2Fdron3.jpg?alt=media&token=c08547de-4dbf-4d32-b568-76de7c285aac"
 
         }
         
@@ -31,7 +34,7 @@
             "code":"AAAA1111",
             "name":"ritonavir",
             "weight":500,
-            "image":""
+            "image":"https://firebasestorage.googleapis.com/v0/b/white-con-amor.appspot.com/o/medicacion%2Fritonavir.jpg?alt=media&token=d3ab5e2b-cdb9-42de-b202-aedc78cea6d0"
         
         },
         {
@@ -39,7 +42,7 @@
             "code":"AAAA2222",
             "name":"Nirmatrelvir",
             "weight":400,
-            "image":""
+            "image":"https://firebasestorage.googleapis.com/v0/b/white-con-amor.appspot.com/o/medicacion%2Fnirmatrelvir.jpg?alt=media&token=cf92f81a-dd30-4c8e-beb6-bde1a79ca949"
 
         },
         {
@@ -47,7 +50,7 @@
             "code":"AAAA3333",
             "name":"Remdesivir",
             "weight":300,
-            "image":""
+            "image":"https://firebasestorage.googleapis.com/v0/b/white-con-amor.appspot.com/o/medicacion%2Fremdesivir.png?alt=media&token=599883a6-02a0-45f9-87e0-265a27861d69"
 
         }
         
